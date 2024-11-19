@@ -6,7 +6,7 @@ Dataset kaggle URL: https://www.kaggle.com/datasets/ashishmotwani/tomato
 Description of dataset from kaggle:
 
 Tomato Leaf Disease Classification
-Over 20k images of tomato leaves with 10 diseases and 1 healthy class. Images are collected from both lab scenes and in-the-wild scenes. The goal is to develop a lightweight model that can predict tomato leaf disease & deploy it offline on a mobile app.
+Over 20k images of tomato leaves with 10 diseases and 1 healthy class. Images are collected from both lab scenes and in-the-wild scenes. The goal is to develop a lightweight model that can predict tomato leaf diseases & deploy it offline on a mobile app.
 
 Classes:
 
