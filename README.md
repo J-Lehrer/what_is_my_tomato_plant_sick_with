@@ -1,4 +1,4 @@
-# What is_My Tomato Plant Sick With
+# What Is My Tomato Plant Sick With
 
 This project is a part of the AAI-521 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
