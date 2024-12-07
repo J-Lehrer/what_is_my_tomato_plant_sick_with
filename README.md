@@ -41,6 +41,8 @@ The main purpose of this project is to create code of an image classifier model 
 
 ## Project Description
 
+The main purpose of this project was to make a lightweight model that would be usable in a mobile application to detect what sickness a tomato plant had based on a picture of a leaf.
+
 ### Dataset
 
 Dataset kaggle URL: https://www.kaggle.com/datasets/ashishmotwani/tomato
