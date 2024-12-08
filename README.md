@@ -98,6 +98,6 @@ Additionally the code to set up the transfer learning base from the MobileNetV2 
 
 https://kshitijkutumbe.medium.com/building-an-image-classification-model-with-transfer-learning-in-tensorflow-4ab203783ec9
 
-Similarly the code as reference for the additional model layers was found at:
+Similarly the code which was used as reference for the additional model layers was found at:
 
 https://clemsonciti.github.io/rcde_workshops/python_deep_learning/07-Convolution-Neural-Network.html
