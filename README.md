@@ -93,3 +93,11 @@ SOFTWARE.
 ## Acknowledgments
 
 We would like to thank Professor Saeed Sardari as well as all of those who contributed to machine learning before us allowing us to complete this project.
+
+Additionally the code to set up the transfer learning base from the MobileNetV2 model was found at:
+
+https://kshitijkutumbe.medium.com/building-an-image-classification-model-with-transfer-learning-in-tensorflow-4ab203783ec9
+
+Similarly the code as reference for the additional model layers was found at:
+
+https://clemsonciti.github.io/rcde_workshops/python_deep_learning/07-Convolution-Neural-Network.html
